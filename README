@@ -1,0 +1,1 @@
+I always muck around on the Allocine site to search informations about movies and then do copy/paste to get the data about title, director, actors, summary... That's so boring that I made a php code to get directly the informations on Allocine.com. PHP5 and the cUrl Library are required !
